@@ -1,6 +1,6 @@
 Task 01: Superstore Sales Dashboard 📊
 Project Overview
-This project involved cleaning and analyzing a comprehensive Superstore Sales Dataset using Microsoft Excel. The goal was to transform raw sales data into an interactive dashboard that provides actionable insights into profitability and sales trends.
+This project involved cleaning and analyzing a comprehensive Superstore Sales Dataset using Microsoft Excel. The goal was to transform raw sales data into an interactive dashboard that provides actionable insights into profitability and sales trends. Developed as part of my Data Analyst Internship at SkillCraft Technology.
 
 Key Objectives 🎯
 Data Cleaning: Processed the dataset to ensure date consistency, currency formatting, and the removal of duplicates.
